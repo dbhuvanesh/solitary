@@ -11,8 +11,8 @@
     "application"
   ],
   "author": "Bhuvanesh Duvvuri",
-  "license": "ISC",
-  "description": "",
+  "license": "MIT",
+  "description": "Solitary is an opensource end-to-end encrypted communication platform.",
   "dependencies": {
     "react": "^18.2.0",
     "medhya": "^1.0.130",
